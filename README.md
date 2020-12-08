@@ -1,0 +1,3 @@
+# Prolog-Talking-Box
+
+The prolog script,Sandwich Interactor, offers users different meal options to make a sandwich. The user can choose either of the following meal options Healthy Meal, Vegan Meal, Vegetarian Meal, Value Meal and Meat Meal. Each of these meals offer different types of ingredients which the user can command in. If the user chooses a veggie meal, meat options will not be offered. If a person chose healthy meal, fatty sauces will not be offered. If a person chose vegan meal, cheese top-up will not be offered. If a person chose value meal, no top-up will be offered. Lastly, the script prints out all the ingredients the user has choosen for the meal type. 
